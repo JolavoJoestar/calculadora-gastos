@@ -17,10 +17,7 @@ Este projeto é uma Calculadora de Gastos Diários desenvolvida como SPA / PWA s
 
 ## Cronograma: 
 
-
-
-
-👉 Imagem ou descrição das fases (exemplo: Planejamento, Desenvolvimento, Testes, Deploy)
+👉 https://github.com/JolavoJoestar/calculadora-gastos/blob/main/Cronograma%20Calculadora%20de%20Gastos%20Diários.xml.pod
 
 ## Board do Trello:
 
