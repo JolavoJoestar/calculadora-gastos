@@ -13,15 +13,25 @@ Este projeto é uma Calculadora de Gastos Diários desenvolvida como SPA / PWA s
 ✅ Deploy no Vercel  
 
 ## Deploy:
-(https://calculadora-gastos-livid.vercel.app)
+👉 https://calculadora-gastos-livid.vercel.app
 
-## Cronograma: (ProjectLibre)
+## Cronograma: 
+
+| Tarefa                       | Início       | Fim          | Status       |
+|------------------------------|--------------|--------------|--------------|
+| Planejamento do projeto      | 01/06/2025   | 01/06/2025   | Concluído    |
+| Desenvolvimento da interface | 02/06/2025   | 05/06/2025   | Concluído    |
+| Implementação da lógica JS   | 05/06/2025   | 06/06/2025   | Concluído    |
+| Deploy no Vercel             | 07/06/2025   | 08/06/2025   | Concluído    |
+| Testes e ajustes             | 06/06/2025   | 07/06/2025   | Concluído    |
+| Documentação e entrega final | 08/06/2025   | 10/06/2025   | Em andamento |
+
 
 👉 Imagem ou descrição das fases (exemplo: Planejamento, Desenvolvimento, Testes, Deploy)
 
 ## Board do Trello:
 
-👉 Link para o board do Trello utilizado no projeto
+👉 https://trello.com/invite/b/684760b2953fda13d2d6c14c/ATTIaedb02b3e8d02e032ca743892b0da98711ABD4E9/calculadora-de-gastos
 
 ## Interação com Claude.ai:
 
