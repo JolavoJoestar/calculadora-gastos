@@ -13,8 +13,7 @@ Este projeto é uma Calculadora de Gastos Diários desenvolvida como SPA / PWA s
 ✅ Deploy no Vercel  
 
 ## Deploy
-
-[LINK DO SITE AQUI]
+(https://calculadora-gastos-livid.vercel.app)
 
 ## Cronograma (ProjectLibre)
 
