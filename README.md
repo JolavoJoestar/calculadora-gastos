@@ -17,14 +17,7 @@ Este projeto é uma Calculadora de Gastos Diários desenvolvida como SPA / PWA s
 
 ## Cronograma: 
 
-| Tarefa                       | Início       | Fim          | Status       |
-|------------------------------|--------------|--------------|--------------|
-| Planejamento do projeto      | 01/06/2025   | 01/06/2025   | Concluído    |
-| Desenvolvimento da interface | 02/06/2025   | 05/06/2025   | Concluído    |
-| Implementação da lógica JS   | 05/06/2025   | 06/06/2025   | Concluído    |
-| Deploy no Vercel             | 07/06/2025   | 08/06/2025   | Concluído    |
-| Testes e ajustes             | 06/06/2025   | 07/06/2025   | Concluído    |
-| Documentação e entrega final | 08/06/2025   | 10/06/2025   | Em andamento |
+
 
 
 👉 Imagem ou descrição das fases (exemplo: Planejamento, Desenvolvimento, Testes, Deploy)
