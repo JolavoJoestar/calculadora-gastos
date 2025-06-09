@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Calculadora de Gastos Diários</title>
+    <link rel="manifest" href="manifest.json" />
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <h1>Calculadora de Gastos Diários</h1>
+
+    <form id="form-gasto">
+        <input type="text" id="descricao" placeholder="Descrição" required />
+        <input type="number" id="valor" placeholder="Valor (R$)" required />
+        <button type="submit">Adicionar Gasto</button>
+    </form>
+
+    <h2>Gastos de Hoje</h2>
+    <ul id="lista-gastos"></ul>
+
+    <h2>Total do Dia: R$ <span id="total">0.00</span></h2>
+
+    <script src="apps.js"></script>
+</body>
+</html>
